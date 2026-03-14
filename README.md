@@ -16,3 +16,7 @@ This project provides a comprehensive analysis of sales trends and performance. 
 ## How to View
 1. Download the Retail sales analysis by Dushyant...pbix file.
 2. Open it in *Power BI Desktop*.
+## Dashboard Previews
+![Main Dashboard](dash%201.JPG)
+![Product Analysis](dsh%202.JPG)
+![Sales Trends](dash%203.JPG)
